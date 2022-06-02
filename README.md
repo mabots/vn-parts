@@ -9,6 +9,6 @@ VN (VN5 / VNH ) performance,tuning & styling parts showcase.
 5. Create new Pull Request
 
 ## Deploying
-The page is hosted and managed by Github pages mirrors to `master` branch.
+The page is hosted and managed by GitHub pages mirrors to `master` branch.
 
 Released under the MIT license.
